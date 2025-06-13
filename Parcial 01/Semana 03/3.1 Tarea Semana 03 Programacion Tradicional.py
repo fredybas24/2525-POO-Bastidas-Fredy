@@ -1,4 +1,4 @@
-# Registro de temperaturas - Programación Tradicional
+# Registro de temperaturas -- Programación Tradicional
 
 
 # Función para ingresar las temperaturas de 7 días

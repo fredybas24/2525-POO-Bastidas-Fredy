@@ -1,4 +1,4 @@
-# Registro de temperaturas - POO
+# Registro de temperaturas -- POO
 
 
 # Creamos una clase que representa el clima semanal
