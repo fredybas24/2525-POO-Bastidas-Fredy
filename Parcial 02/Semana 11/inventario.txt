@@ -1,0 +1,20 @@
+{
+    "v001": {
+        "id": "v001",
+        "nombre": "matrix",
+        "cantidad": 3,
+        "precio": 2.0
+    },
+    "v002": {
+        "id": "v002",
+        "nombre": "Jurassic",
+        "cantidad": 6,
+        "precio": 3.0
+    },
+    "v003": {
+        "id": "v003",
+        "nombre": "Star Trek",
+        "cantidad": 4,
+        "precio": 2.5
+    }
+}
